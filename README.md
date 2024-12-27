@@ -36,8 +36,14 @@ tensorboard --logdir ./summary/log
 6.test the model.
 
 ```shell
-python predict.py --your_model_path
+python test.py --your_model_path
 ```
+
+## My_Model
+
+You can use the model trained by myself(accuracy 0.7 on test set)：
+
+https://pan.baidu.com/s/1FaGXDYMmmwHvRC6dH69Hlg?pwd=1234 提取码: 1234 
 
 ## Reference
 
